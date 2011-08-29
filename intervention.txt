@@ -1,0 +1,37 @@
+To what extent do you:
+
+1. Mark the pages you read in your text? (effective reading)
+    1 - I want to go from "seldom" to "sometimes" by reading actively.
+
+2. Schedule test-preparation time on your weekly assignment sheet? (time management)
+    2 - I want to go from "sometimes" to "often" by organizing tasks.
+
+3. Prepare for tests in a regular study place? (organization)
+     3 - I want to go from "often" to "almost always" by studying in advance.
+
+4. Strive to understand and manage your stress? (stress management)
+     3 - I want to go from "often" to "almost always" by managing my time properly.
+
+5. Choose carefully with whom you study? (socialization)
+     2 - I want to go from "sometimes" to "often" by choosing my companions that are helpful in studying.
+
+6. Distribute your study time before an exam? (memorization)
+    2 - I want to go from "sometimes" to "often" by studying in advance.
+
+7. Eat and sleep properly the night before an exam? (stress management)
+     4 - I want to keep what I'm doing.
+
+8. Listen attentively and objectively to the instructor? (listening)
+    3 - I want to go from often to almost always by paying more attention to the teacher/instructor.
+
+9. Ask the teacher about the type of test to be given? (listening and note-taking)
+    3 - I want to go from often to almost always by try to ask more questions to the teacher.
+
+10. Review your notes the day you wrote them? (note-taking)
+     1 - I want to go from "seldom" to "sometimes" by reviewing and understanding the lesson properly.
+
+11. Organize the material into diagrams?(memorization)
+     2 - I want to go from "sometimes" to "often" by understanding and organizing my time in studying properly.
+
+12. View tests at learning opportunities, not aversions? (test taking)
+      2 - I want to go from "sometimes" to "often" by studying in advance.
